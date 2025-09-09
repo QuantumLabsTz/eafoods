@@ -504,12 +504,12 @@ Update API endpoints in:
   - Business logic explanations
 
 ### **Total Time Breakdown**
-- **Core Development**: 19 hours
+- **Core Development**: 18 hours
 - **Testing**: 2.5 hours
 - **Documentation**: 1.5 hours
 - **Bug Fixes**: 2 hours
 
-**Grand Total**: **25 hours**
+**Grand Total**: **24 hours**
 
 ### **Time Distribution**
 - **Backend/Logic**: 40% (10 hours)
